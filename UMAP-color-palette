@@ -1,1 +1,11 @@
-
+'IL18R+' = '#008B8B', 
+'resting ILC2s' = '#8EE5EE', 
+'stressed ILC2s' = '#0000EE', 
+'IL18R+b' = '#7FFF00', 
+'IL18R+c' = '#BF3EFF', 
+'activated ILC2s' = '#C1FFC1', 
+'NK cells' = '#FFB90F', 
+'ILC3s/NK cells' = '#FF8C00', 
+'Lung T cells' = '#8B0000', 
+'Thymus T cells' = '#FF4040', 
+'Mesenchymal cells' = '#FF7256'
